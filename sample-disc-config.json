@@ -2,33 +2,41 @@
     {
         "id": 1,
         "minecraftId": "item.mcdisc.1",
-        "url": "https://www.youtube.com/watch?v=AEB6ibtdPZc",
-        "name": "Hard Times",
-        "artist": "Paramore",
+        "url": "https://www.youtube.com/watch?v=NxSMsuXGJI4",
+        "name": "Digital Animal",
+        "artist": "Honey Claws",
         "soundId": "sound.mcdisc.1"
     },
     {
         "id": 2,
         "minecraftId": "item.mcdisc.2",
-        "url": "https://www.youtube.com/watch?v=ObmXBy2IyaM",
-        "name": "James Bond",
-        "artist": "Scouting For Girls",
+        "url": "https://www.youtube.com/watch?v=x7lwQ_odSGQ",
+        "name": "Mr Money Man",
+        "artist": "Danny Hensworth",
         "soundId": "sound.mcdisc.2"
     },
     {
         "id": 3,
         "minecraftId": "item.mcdisc.3",
-        "url": "https://www.youtube.com/watch?v=o0u4M6vppCI",
-        "name": "Shia LaBeouf",
-        "artist": "Rob Cantor",
+        "url": "https://www.youtube.com/watch?v=iRtuAoBsZes&pp=ygUPc3BpdCBpbiBteSBmYWNl",
+        "name": "Spit In MY Face",
+        "artist": "ThxSoMch",
         "soundId": "sound.mcdisc.3"
     },
     {
         "id": 4,
         "minecraftId": "item.mcdisc.4",
-        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "name": "Never Gonna Give You Up",
-        "artist": "Rick Astley",
+        "url": "https://www.youtube.com/watch?v=7lqmHbWoc7A",
+        "name": "Scarface Trap Theme Remix",
+        "artist": "Scarface (1983)",
         "soundId": "sound.mcdisc.4"
+ },
+ {
+        "id": 5,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://www.youtube.com/watch?v=5X-Mrc2l1d0",
+        "name": "Rock With You",
+        "artist": "Michael Jackson",
+        "soundId": "sound.mcdisc.5"
     }
 ]
